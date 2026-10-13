@@ -1,15 +1,28 @@
-# Обновления модов Gamble With Your Friends
+# Моды Gamble With Your Friends — обновление v3
 
-Готовые архивы находятся в папке [downloads](downloads).
+[Инструкция и описание изменений](README_v3_RU.md).
 
-- [Boombox 2.0.0](downloads/Boombox_2.0.0.zip)
-- [Puppy Palace 1.8.8](downloads/PuppyPalace_v2.zip)
-- [Toro Leap 1.2.10](downloads/ToroLeap_v2.zip)
-- [Gold Rush Express 1.0.17](downloads/GoldRushExpress_v2.zip)
-- [Thunder of Olympus 1.0.15](downloads/ThunderOlympus_v2.zip)
-- [Sugar Galaxy 1.2.15](downloads/SugarGalaxy_v2.zip)
-- [Reel King Lake 1.0.14](downloads/ReelKingLake_v2.zip)
+## Скачать актуальное обновление
 
-Закройте игру, сохраните копии старых DLL и распакуйте папку BepInEx с заменой файлов. Не оставляйте дубликаты модов. Для коопа установите одинаковые версии у всех игроков, перезапустите лобби и создайте новую колонку. Полные инструкции включены в каждый архив.
+- [Шесть автоматов и Blackjack 3-Hand — один ZIP](downloads/GWYF_Slots_Blackjack_v3.zip)
+- [Новый самостоятельный JBL YouTube Boombox 3.0.0](downloads/Boombox_3.0.0.zip)
+- [Компонент YouTube для бумбокса — нужен вместе с предыдущим архивом](downloads/Boombox_YouTube_Runtime.zip)
+- [Исходники всех обновлений и графика](downloads/GWYF_Mod_Sources_v3.zip)
 
-Все семь сборок и доступные офлайн-проверки прошли. Исчезновение зависания Boombox, аудио на Windows и кооп требуют проверки в самой игре. DLL игры и секреты в эту поставку не включены.
+Закройте игру. Сохраните старые моды и удалите дубликаты DLL. Распакуйте папку BepInEx в игру с заменой файлов. Для бумбокса нужны ОБА его архива. У всех участников коопа должны быть одинаковые версии; перезапустите игру и создайте новое лобби.
+
+Бумбокс: Insert — создать, ЛКМ — музыка, E — взять, Q — бросить, Escape — закрыть меню. Поиск по названию или ссылке YouTube; выбранный звук передаёт хост всем игрокам.
+
+## Отдельные автоматы
+
+- [PuppyPalace 1.8.9](downloads/PuppyPalace_1.8.9.zip)
+- [ToroLeap 1.2.11](downloads/ToroLeap_1.2.11.zip)
+- [GoldRushExpress 1.0.18](downloads/GoldRushExpress_1.0.18.zip)
+- [ThunderOlympus 1.0.16](downloads/ThunderOlympus_1.0.16.zip)
+- [SugarGalaxy 1.2.16](downloads/SugarGalaxy_1.2.16.zip)
+- [ReelKingLake 1.0.15](downloads/ReelKingLake_1.0.15.zip)
+- [Blackjack3Hand 1.2.1](downloads/Blackjack3Hand_1.2.1.zip)
+
+Сборки и 223 351 офлайн-проверка прошли. Проверены аудиобуфер, сериализация Mirror, сроки и размещение косточек, пропорции цифр. Живой YouTube из этой облачной среды блокируется proxy 403. Реальная Windows-игра, бросок без вылета, интерфейс и кооп здесь не запускались. DLL игры и секреты в архивах отсутствуют. Лицензии помощников включены.
+
+Контрольные суммы: [SHA256SUMS.txt](SHA256SUMS.txt). Предыдущие v2-архивы сохранены в downloads.
