@@ -21,6 +21,9 @@
 - [Установка, выбор браузера и управление](README_PocketPhone_RU.md)
 - [Исходники, JS и результаты проверок](downloads/PocketPhone_Sources_1.3.0.zip)
 - [Модель Pro Max — отдельный рендер версии 1.2.0](downloads/PocketPhone_Model_1.2.0.png)
+- [Интерактивный 3D-просмотр и движения — ZIP, внутри HTML](downloads/PocketPhone_3D_Preview_1.3.0.zip)
+- [Видео модели и движений — MP4, 12 секунд](downloads/PocketPhone_Animations_1.3.0.mp4)
+- [Описание предпросмотра](README_PocketPhone_3D_RU.md)
 
 В режиме auto выбирается поддерживаемый браузер Windows по умолчанию:
 Chrome, Edge, Opera/GX, Яндекс, Brave, Vivaldi, Chromium. Для другого движка,
