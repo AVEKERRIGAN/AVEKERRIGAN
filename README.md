@@ -1,5 +1,21 @@
 # Моды Gamble With Your Friends
 
+## Money Train / Gold Rush Express 1.0.19 — плавные барабаны и читаемый TOTAL
+
+- [Установка / обновление — ZIP](downloads/GoldRushExpress_1.0.19.zip)
+- [Изменения, управление и кооп](README_MoneyTrain_RU.md)
+- [Исходники, графика и результаты проверок](downloads/GoldRushExpress_Sources_1.0.19.zip)
+
+Символы плавно въезжают в ячейки и останавливаются в центре; цифры двигаются
+вместе с ними. Справа раздельные строки TOTAL / общий икс / деньги, итог обновляется
+после приземления и действий персонажей. Эффекты ограничены экраном.
+Время хоста учитывает окончания анимаций на низком FPS.
+
+У всех участников должна стоять 1.0.19; после замены DLL создайте новое лобби.
+Если устанавливаете общий архив автоматов v3, распакуйте **это обновление после него**.
+620 989 офлайн-проверок, 6 000 раундов, 45 247 бонусных шагов; DLL собрана без ошибок.
+Unity-отрисовка в Windows и живой кооп здесь не запускались.
+
 ## Бумбокс 3.1.0 — бросок по взгляду и ограничение загрузки
 
 - [Маленькое обновление DLL с 3.0.0](downloads/Boombox_Update_3.1.0.zip)
@@ -63,7 +79,7 @@ Windows, его реестр, реальные Opera/Яндекс и живой 
 
 - [PuppyPalace 1.8.9](downloads/PuppyPalace_1.8.9.zip)
 - [ToroLeap 1.2.11](downloads/ToroLeap_1.2.11.zip)
-- [GoldRushExpress 1.0.18](downloads/GoldRushExpress_1.0.18.zip)
+- [GoldRushExpress 1.0.19](downloads/GoldRushExpress_1.0.19.zip)
 - [ThunderOlympus 1.0.16](downloads/ThunderOlympus_1.0.16.zip)
 - [SugarGalaxy 1.2.16](downloads/SugarGalaxy_1.2.16.zip)
 - [ReelKingLake 1.0.15](downloads/ReelKingLake_1.0.15.zip)
